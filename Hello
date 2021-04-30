@@ -1,0 +1,4 @@
+vi helloworld.txt
+:w hello.txt
+:q 
+cat hello.txt
